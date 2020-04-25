@@ -143,7 +143,12 @@ body {
 .div-2 {
     border-right: 1px solid #666699;
 }
-
+.full-width footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 25%;
+}
 
 
 
